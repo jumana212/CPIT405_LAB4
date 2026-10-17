@@ -85,4 +85,5 @@ function introduceStudent(name, major) {
     return `My name is ${name} and I study ${major}.`;
 }
 
-console.log(introduceStudent(name, major));
+console.log(introduceStudent(studentName, major));
+
